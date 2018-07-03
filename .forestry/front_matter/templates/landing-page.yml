@@ -82,6 +82,7 @@ fields:
   name: testtext1
   label: TestText
   description: This is a test help text
+  default: default testing text
 pages:
 - test2.html
 - index.md
