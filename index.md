@@ -26,7 +26,7 @@ hero_button:
   href: "/about"
 show_news: true
 show_staff: true
-testtext1: ''
+testtext1: testingtestingtesting123123
 menu:
   navigation:
     identifier: _index
