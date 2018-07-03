@@ -78,6 +78,10 @@ fields:
   type: text
   hidden: true
   default: home
+- type: text
+  name: testtext1
+  label: TestText
+  description: This is a test help text
 pages:
 - test2.html
 - index.md
